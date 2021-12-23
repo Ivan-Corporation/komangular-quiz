@@ -1,7 +1,7 @@
 # KomangularQuiz
 
 ### Simple quiz app with Angular framework modern features
-### Demo - https://komangular-quiz.netlify.app
+
 
 <ul>
 Deps:
