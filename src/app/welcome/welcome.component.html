@@ -1,0 +1,20 @@
+<div class="container bg-light py-5">
+    <h1 class='display-5 fw-bold'>Komangular Quiz</h1>
+    <p class='col-md-8 fs-4'>Quiz with 9 json questions in total. One question contain 10 points</p>
+    <h4>Rules</h4>
+    <ol>
+        <li>Correct question +10 points</li>
+        <li>Incorrect question -10 points</li>
+        <li>10 seconds to answer 1 question</li>
+        <li>If you want to reset results, refresh page</li>
+    </ol>
+    <hr />
+    <h1 style="font-family: cursive; text-align:center">All the best</h1>
+    <div class="name col-md-4 my-3">
+        <label for=''>Your name:</label>
+        <input #name type='text' class='form-control' />
+    </div>
+    <div style="font-family: cursive; text-align:center">
+        <button (click)="startQuiz()" class="btn btn-primary btn-lg" routerLink='/question'>Start Quiz</button>
+    </div>
+</div>
