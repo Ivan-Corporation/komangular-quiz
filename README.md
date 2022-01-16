@@ -3,9 +3,9 @@
 ### Video - https://www.youtube.com/watch?v=oJusJrncVTA
 ![angular](https://user-images.githubusercontent.com/58357980/149654789-e703fccf-c636-4027-ac3a-3a4797265865.jpg)
 
-
+#### Deps:
 <ul>
-Deps:
+
 <li>rxjs</li>
 <li>bootstrap</li>
 <li>fa</li>
